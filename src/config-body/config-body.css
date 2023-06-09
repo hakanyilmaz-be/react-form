@@ -1,0 +1,30 @@
+.form {
+  margin-top: 70px;
+}
+
+.config-body .row {
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+.config-body h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.top-btn {
+  position: absolute;
+  top: 30px;
+  right: 70px;
+}
+
+.top-btn button {
+  margin-right: 10px;
+}
+
+.errMessage {
+  position: absolute;
+  top: 35px;
+  left: 70px;
+  color: #dc3545;
+}

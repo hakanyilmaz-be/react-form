@@ -1,0 +1,16 @@
+export const userInitialState = {
+    isConfirm: false,
+    code: "",
+    description: "",
+    bankAccount: "",
+    vatAccountNumber: "",
+    companyAccountNumber: "",
+    email: "",
+    telephone: "",
+    website: "",
+    streetname: "",
+    streetnumber: "",
+    postalCode: "",
+    city: "",
+    country: "",
+};
